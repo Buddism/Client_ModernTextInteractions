@@ -1,0 +1,10 @@
+Author: Buddy (28116)
+Description:
+
+adds 4 keybinds
+	Ctrl+Left
+	Ctrl+Right
+	Ctrl+Backspace
+	Ctrl+Delete
+
+could not figure out shift+ctrl due to janky string highlighting in this engine
